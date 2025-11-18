@@ -79,6 +79,14 @@ CIE_205_Project.sln
 
 ### Running the Simulator
 
+<br>
+<div align="center">
+  <img src="images/mode_choose.png" alt="Mode Selection" width="49%" style="display: inline-block; margin: 0 5px;"/>
+  <img src="images/file_name.png" alt="File Selection" width="49%" style="display: inline-block; margin: 0 5px;"/>
+</div>
+
+<br>
+
 1. **Select Execution Mode**
    - Enter `1` for Interactive Mode
    - Enter `2` for Step-by-Step Mode
