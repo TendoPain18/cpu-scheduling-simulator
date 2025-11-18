@@ -2,7 +2,7 @@
 
 A comprehensive C++ implementation of various CPU scheduling algorithms with multiple execution modes. Built with custom data structures and designed for educational purposes to demonstrate process scheduling concepts.
 
-[![Watch the video](images/youtube_window_1.png)](https://www.youtube.com/embed/YOUR_VIDEO_ID)
+[![Watch the video](images/youtube_window_1.png)](https://www.youtube.com/embed/GCb-va1WDiY?si=0nH1pRuWhRNlPFNE)
 
 ## 📋 Description
 
@@ -228,7 +228,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built as part of CIE 205 (Data Structures and Algorithms) course project
 - Implements concepts from modern operating systems textbooks
 
-
+<br>
 <div align="center">
   <a href="https://github.com/TendoPain18/cpu-scheduling-simulation/raw/main/x64/Release/CIE_205_Project.exe">
     <img src="https://img.shields.io/badge/Download-Demo-brightgreen?style=for-the-badge&logo=download&logoColor=white" alt="Download Demo" style="height: 50px;"/>
