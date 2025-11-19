@@ -13,7 +13,7 @@ The project showcases advanced C++ concepts including templates, inheritance, po
 <br>
 <br>
 <div align="center">
-  <a href="https://github.com/TendoPain18/cpu-scheduling-simulation/raw/main/Release/cpu-scheduling-simulation.rar">
+  <a href="https://github.com/TendoPain18/cpu-scheduling-simulator/raw/main/Release/cpu-scheduling-simulator.rar">
     <img src="https://img.shields.io/badge/Download-Demo-brightgreen?style=for-the-badge&logo=download&logoColor=white" alt="Download Demo" style="height: 50px;"/>
   </a>
 </div>
@@ -238,7 +238,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <br>
 <div align="center">
-  <a href="https://github.com/TendoPain18/cpu-scheduling-simulation/raw/main/Release/cpu-scheduling-simulation.rar">
+  <a href="https://github.com/TendoPain18/cpu-scheduling-simulator/raw/main/Release/cpu-scheduling-simulator.rar">
     <img src="https://img.shields.io/badge/Download-Demo-brightgreen?style=for-the-badge&logo=download&logoColor=white" alt="Download Demo" style="height: 50px;"/>
   </a>
 </div>
